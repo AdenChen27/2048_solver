@@ -12,4 +12,4 @@ solver parameters optimizer `optimizer.h`
 - Genetic Algorithm
 
 
-![](2048_solver.gif)
+![](demo.gif)
